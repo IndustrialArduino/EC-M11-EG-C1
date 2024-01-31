@@ -5,9 +5,9 @@ NORVI SSN range is made for standalone installations in industrial environments,
 The wall mount and pole mount accessories make the implementations easy.
 
 ESP32-WROOM32 SoC inside
-1 x Digital Input
-2 x Analog inputs (0 – 10V DC)
-1 x RS-485 Communication
+Digital Input
+Analog inputs (0 – 10V DC)
+RS-485 Communication
 IP67 Rated Enclosure
 
 8 Pin Connector
